@@ -1,0 +1,21 @@
+.gitignore
+*.log
+*.fls
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.xml
+*.gz
+*.toc
+*.xdv
+*.out
+*.fdb*
+*.sync*
+Part II/II.1.1.pdf
+Part II/II.2.pdf
+Part II/II.1.3.pdf
+main.pdf
+Part II/II.1.3.pdf
+main.pdf
+Part II/II.1.3.pdf
